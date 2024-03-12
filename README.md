@@ -34,4 +34,6 @@
 
 # Removing files
 
+- git reset HEAD <filename>: remove a file from the staging area
+
 # Ignoring files
