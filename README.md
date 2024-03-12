@@ -29,6 +29,8 @@
 
 # Adding all files in directory (including hidden)
 
+- git add -A
+
 # Removing files
 
 # Ignoring files
