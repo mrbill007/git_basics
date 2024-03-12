@@ -25,11 +25,12 @@
 
 # Adding multiple files of a certain type
 
-- git add \*html
+- git add \*.html
 
-# Adding all files in directory (including hidden)
+# Add all files and folder in the current directory (including hidden)
 
 - git add -A
+- git status
 
 # Removing files
 
