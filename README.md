@@ -37,3 +37,11 @@
 - git reset HEAD <filename>: remove a file from the staging area
 
 # Ignoring files
+
+- git .gitignore: create a directory called .gitignore and add files you want to ignore
+
+# Git Branches
+
+- git branch: view all branches
+- git checkout -b <branch_name>: add a new branch
+- git checkout <branch_name>: checkout a branch
